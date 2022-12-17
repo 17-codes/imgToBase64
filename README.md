@@ -1,3 +1,2 @@
 # imgToBase64
-this branch 1
-this is my first commit
+converts an image to base64 format
